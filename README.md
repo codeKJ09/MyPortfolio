@@ -18,7 +18,8 @@ Hi, I'm a passionate software developer with a keen interest in **web developmen
 
 ![image](https://github.com/user-attachments/assets/741b7071-89b6-4942-bccb-04b633ccfd8b)
 
-![image](https://github.com/user-attachments/assets/a56a55e2-08f0-4ff2-9df0-a4bc5c69131c)
+![image](https://github.com/user-attachments/assets/57fc8919-d6ed-4f87-9cce-21d10bedfdfe)
+
 
 
 ![WhatsApp Image 2025-04-02 at 21 24 56_139eb173](https://github.com/user-attachments/assets/d28f2b47-a042-41a5-8f4f-c1ff8ecea12a)
