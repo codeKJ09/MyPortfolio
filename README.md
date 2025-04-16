@@ -17,7 +17,7 @@ Welcome to my personal portfolio! This repository contains the source code for m
 Hi, I'm a passionate software developer with a keen interest in **web development, data visualization, and problem-solving**. I love building efficient and user-friendly applications while continuously learning new technologies.  
 
 ![image](https://github.com/user-attachments/assets/741b7071-89b6-4942-bccb-04b633ccfd8b)
-![image](https://github.com/user-attachments/assets/331406b3-4271-4001-a1d7-2cd8ffbec0cb)
+
 ![image](https://github.com/user-attachments/assets/a56a55e2-08f0-4ff2-9df0-a4bc5c69131c)
 
 
